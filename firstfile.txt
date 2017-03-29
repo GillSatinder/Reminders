@@ -1,2 +1,3 @@
 this is my first file n git 
-eh nai aa file 
+eh nai aa file
+it it pehli 
